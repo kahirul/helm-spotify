@@ -116,7 +116,7 @@
     (volatile)
     (delayed)
     (multiline)
-    (requires-pattern . 2)
+    (requires-pattern . 5)
     (candidates-process . helm-spotify-search)
     (action-transformer . helm-spotify-actions-for-track)))
 
